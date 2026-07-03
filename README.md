@@ -9,6 +9,6 @@ Sabrina Ayumi Cardoso - 17922671
 ## Lista de componentes e seus preços
 --
 ## Link do falstad
---
+https://www.falstad.com/s.php?s=hwjjeq
 ## Vídeos mostrando o projeto
 --
